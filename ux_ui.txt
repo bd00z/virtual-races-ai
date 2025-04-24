@@ -1,0 +1,537 @@
+<div style="width: 393px; height: 852px; position: relative; background: #F5F5F5; overflow: hidden; border-radius: 28px">
+  <div style="width: 364px; height: 713px; left: 15px; top: 139px; position: absolute; background: #F5F5F5; overflow: hidden">
+    <div style="width: 364px; height: 528px; left: 0px; top: 232px; position: absolute">
+      <div style="width: 364px; height: 117px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 364px; height: 117px; left: 0px; top: 0px; position: absolute; background: linear-gradient(0deg, #2C2A2B 0%, #2C2A2B 100%), #5E5E5E; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 25px"></div>
+        <div style="width: 154px; height: 37px; left: 40px; top: 23px; position: absolute; color: #F5F5F5; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Walking</div>
+        <div style="width: 3px; height: 14px; left: 33px; top: 25px; position: absolute; background: white; border-radius: 15px"></div>
+        <img style="width: 189px; height: 117px; left: 174px; top: 0px; position: absolute; border-radius: 21px" src="https://placehold.co/189x117" />
+        <div style="width: 62px; height: 24px; left: 40px; top: 83px; position: absolute; background: #F1641C; border-radius: 15px"></div>
+        <div style="width: 26px; height: 18px; left: 59px; top: 87px; position: absolute; color: #F5F5F5; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Go</div>
+        <div style="width: 19px; height: 13px; left: 80px; top: 87px; position: absolute; overflow: hidden">
+          <div style="width: 5.54px; height: 7.58px; left: 6.93px; top: 2.71px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+        </div>
+      </div>
+      <div style="width: 364px; height: 129px; left: 0px; top: 117px; position: absolute">
+        <div style="width: 364px; height: 117px; left: 0px; top: 12px; position: absolute; background: linear-gradient(0deg, #2C2A2B 0%, #2C2A2B 100%), #5E5E5E; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 25px"></div>
+        <div style="width: 154px; height: 37px; left: 41px; top: 35px; position: absolute; color: #F5F5F5; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Cycling</div>
+        <div style="width: 3px; height: 16px; left: 34px; top: 37px; position: absolute; background: white; border-radius: 15px"></div>
+        <img style="width: 169px; height: 129px; left: 194px; top: 0px; position: absolute; border-radius: 16px" src="https://placehold.co/169x129" />
+        <div style="width: 62px; height: 24px; left: 40px; top: 95px; position: absolute; background: #F1641C; border-radius: 15px"></div>
+        <div style="width: 26px; height: 18px; left: 59px; top: 100px; position: absolute; color: #F5F5F5; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Go</div>
+        <div style="width: 19px; height: 13px; left: 80px; top: 99px; position: absolute; overflow: hidden">
+          <div style="width: 5.54px; height: 7.58px; left: 6.93px; top: 2.71px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+        </div>
+      </div>
+      <div style="width: 364px; height: 135px; left: 0px; top: 240px; position: absolute">
+        <div style="width: 364px; height: 117px; left: 0px; top: 18px; position: absolute; background: linear-gradient(0deg, #2C2A2B 0%, #2C2A2B 100%), #5E5E5E; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 25px"></div>
+        <img style="width: 167.14px; height: 135px; left: 197px; top: 0px; position: absolute; border-radius: 46px" src="https://placehold.co/167x135" />
+        <div style="width: 154px; height: 37px; left: 41px; top: 40px; position: absolute; color: #F5F5F5; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Horseback<br/>Riding</div>
+        <div style="width: 3px; height: 30px; left: 34px; top: 42px; position: absolute; background: white; border-radius: 15px"></div>
+        <div style="width: 62px; height: 24px; left: 41px; top: 100px; position: absolute; background: #F1641C; border-radius: 15px"></div>
+        <div style="width: 26px; height: 18px; left: 59px; top: 105px; position: absolute; color: #F5F5F5; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Go</div>
+        <div style="width: 19px; height: 13px; left: 80px; top: 104px; position: absolute; overflow: hidden">
+          <div style="width: 5.54px; height: 7.58px; left: 6.93px; top: 2.71px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+        </div>
+      </div>
+      <div style="width: 364px; height: 117px; left: 0px; top: 387px; position: absolute; background: linear-gradient(0deg, #2C2A2B 0%, #2C2A2B 100%), #5E5E5E; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 25px"></div>
+      <div style="width: 154px; height: 37px; left: 41px; top: 409px; position: absolute"><span style="color: white; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Formul</span><span style="color: white; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 1.40px; word-wrap: break-word">a<br/></span><span style="color: white; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Racing</span></div>
+      <div style="width: 3px; height: 30px; left: 34px; top: 411px; position: absolute; background: white; border-radius: 15px"></div>
+      <div style="width: 62px; height: 24px; left: 41px; top: 469px; position: absolute; background: #F1641C; border-radius: 15px"></div>
+      <div style="width: 26px; height: 18px; left: 59px; top: 474px; position: absolute; color: #F5F5F5; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Go</div>
+      <img style="width: 156.38px; height: 106px; left: 363.38px; top: 503px; position: absolute; transform: rotate(180deg); transform-origin: top left; border-radius: 24px" src="https://placehold.co/156x106" />
+      <div style="width: 19px; height: 13px; left: 80px; top: 473px; position: absolute; overflow: hidden">
+        <div style="width: 5.54px; height: 7.58px; left: 6.93px; top: 2.71px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+      </div>
+    </div>
+    <div style="width: 241px; height: 33px; left: 18px; top: 186px; position: absolute">
+      <div style="width: 53px; height: 33px; left: 0px; top: 0px; position: absolute; background: #F73007; border-radius: 15px; border: 1px rgba(44, 194, 149, 0) solid"></div>
+      <div style="width: 26px; height: 18px; left: 14px; top: 8px; position: absolute; color: #F5F5F5; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">All</div>
+      <div style="width: 164px; height: 15px; left: 77px; top: 9px; position: absolute; color: #5E5E5E; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Most practiced</div>
+      <div style="width: 161px; height: 6px; left: 62px; top: -79px; position: absolute; background: white; border-radius: 35px"></div>
+      <img style="width: 364px; height: 178px; left: -18px; top: -186px; position: absolute; background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20); border-radius: 25px" src="https://placehold.co/364x178" />
+      <div style="width: 154px; height: 37px; left: 28px; top: -137px; position: absolute; justify-content: center; display: flex; flex-direction: column"><span style="color: white; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.50)">Formul</span><span style="color: white; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 1.40px; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.50)">a<br/></span><span style="color: white; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.50)">Racing</span></div>
+      <div style="width: 144px; height: 5px; left: 92px; top: -32px; position: absolute; background: linear-gradient(0deg, white 0%, white 100%), white; border-radius: 15px"></div>
+      <div style="width: 48px; height: 5px; left: 92px; top: -32px; position: absolute; background: linear-gradient(0deg, #F73007 0%, #F73007 100%), white; border-radius: 15px"></div>
+      <div style="width: 72.53px; height: 5px; left: 22px; top: -137px; position: absolute; transform: rotate(90deg); transform-origin: top left; background: linear-gradient(0deg, #F73007 0%, #F73007 100%), white; border-radius: 15px"></div>
+      <div style="left: 30px; top: -86px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 10px; font-family: Krona One; font-weight: 400; letter-spacing: 0.50px; word-wrap: break-word">Jeddah </div>
+    </div>
+    <div style="width: 164px; height: 15px; left: 230px; top: 195px; position: absolute; color: #5E5E5E; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Olympic</div>
+  </div>
+  <div style="width: 164px; height: 15px; left: 332px; top: 334px; position: absolute; color: #5E5E5E; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Amateur</div>
+  <div style="width: 329px; height: 64px; left: 32px; top: 771px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 35px; border: 1px #929292 solid"></div>
+  <div style="width: 57px; height: 48px; left: 69px; top: 779px; position: absolute; border-radius: 25px"></div>
+  <div style="width: 30.70px; height: 29px; left: 82px; top: 788px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 30.70px; height: 29px; left: 82px; top: 788px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 84px; height: 69px; left: 152px; top: 769.50px; position: absolute; border-radius: 15px; border: 1px rgba(44, 194, 149, 0) solid"></div>
+  <div style="width: 34px; height: 33px; left: 180px; top: 786px; position: absolute; background: #F73007"></div>
+  <div style="width: 17px; height: 18.32px; left: 188.65px; top: 800.68px; position: absolute; background: #F73007"></div>
+  <div style="width: 48px; height: 40px; left: 279px; top: 783px; position: absolute; overflow: hidden">
+    <div style="width: 25.75px; height: 12.68px; left: 11.13px; top: 22.10px; position: absolute; background: #5E5E5E"></div>
+    <div style="width: 16.14px; height: 13.43px; left: 15.93px; top: 5.22px; position: absolute; background: #5E5E5E"></div>
+  </div>
+  <div style="width: 58px; height: 62px; left: 313px; top: 62px; position: absolute; overflow: hidden">
+    <div style="width: 11.41px; height: 36.57px; left: 23.55px; top: 12.70px; position: absolute; background: #5E5E5E"></div>
+    <div style="width: 11.41px; height: 36.60px; left: 12.14px; top: 12.70px; position: absolute; background: #5E5E5E"></div>
+    <div style="width: 0.08px; height: 0.05px; left: 34.89px; top: 49.25px; position: absolute; background: #5E5E5E"></div>
+    <div style="width: 11.41px; height: 36.60px; left: 34.97px; top: 12.70px; position: absolute; background: #5E5E5E"></div>
+    <div style="width: 1.77px; height: 0.61px; left: 33.10px; top: 48.69px; position: absolute; background: #5E5E5E"></div>
+  </div>
+  <div style="width: 298px; height: 54px; left: 15px; top: 66px; position: absolute; background: white; border-radius: 35px; border: 2px rgba(94, 94, 94, 0.23) solid"></div>
+  <div style="width: 37px; height: 30px; left: 256px; top: 78px; position: absolute; background: #BDBDBD"></div>
+  <div style="width: 37.04px; height: 30.03px; left: 255.97px; top: 77.97px; position: absolute; background: #BDBDBD"></div>
+  <div style="width: 154px; height: 37px; left: 35px; top: 74px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #BDBDBD; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 1.40px; word-wrap: break-word">Search</div>
+  <div style="width: 329px; height: 64px; left: 32px; top: 771px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 35px; border: 1px #929292 solid"></div>
+  <div style="width: 34.28px; height: 33px; left: 181.38px; top: 786px; position: absolute; background: #F73007"></div>
+  <div style="width: 17.14px; height: 18.32px; left: 190.10px; top: 800.68px; position: absolute; background: #F73007"></div>
+  <div style="width: 48.40px; height: 40px; left: 281.19px; top: 783px; position: absolute; overflow: hidden">
+    <div style="width: 25.96px; height: 12.68px; left: 11.22px; top: 22.10px; position: absolute; background: #5E5E5E"></div>
+    <div style="width: 16.27px; height: 13.43px; left: 16.06px; top: 5.22px; position: absolute; background: #5E5E5E"></div>
+  </div>
+  <div style="width: 53px; height: 54px; left: 172px; top: 776px; position: absolute; background: rgba(241, 100, 28, 0.50); border-radius: 9999px"></div>
+  <img style="width: 54px; height: 59px; left: 276px; top: 771px; position: absolute" src="https://placehold.co/54x59" />
+  <div style="width: 5.03px; height: 5px; left: 84.18px; top: 797.87px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 5.03px; height: 5px; left: 92.98px; top: 797.87px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 5.03px; height: 5px; left: 101.79px; top: 797.87px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 39px; height: 35px; left: 76px; top: 786px; position: absolute; background: #5E5E5E"></div>
+</div>
+<div style="width: 393px; height: 852px; position: relative; background: #F5F5F5; overflow: hidden; border-radius: 28px">
+  <div style="width: 298px; height: 54px; left: 13px; top: 66px; position: absolute; background: white; border-radius: 35px; border: 2px rgba(94, 94, 94, 0.23) solid"></div>
+  <div style="width: 44px; height: 42px; left: 325px; top: 72px; position: absolute; overflow: hidden">
+    <div style="width: 38px; height: 34.31px; left: 2.67px; top: 4.14px; position: absolute; background: #5E5E5E"></div>
+  </div>
+  <div style="width: 37px; height: 30px; left: 254px; top: 78px; position: absolute; background: #BDBDBD"></div>
+  <div style="width: 37.04px; height: 30.03px; left: 253.97px; top: 77.97px; position: absolute; background: #BDBDBD"></div>
+  <div style="width: 154px; height: 37px; left: 33px; top: 74px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #BDBDBD; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 1.40px; word-wrap: break-word">Search</div>
+  <div style="width: 367px; height: 717px; left: 13px; top: 145px; position: absolute; overflow: hidden">
+    <div style="width: 365px; height: 728px; left: 2px; top: 0px; position: absolute">
+      <div style="width: 364px; height: 140px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 364px; height: 140px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 25px"></div>
+        <div style="width: 154px; height: 37px; left: 41px; top: 25px; position: absolute; color: #5E5E5E; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Sports path</div>
+        <div style="width: 3px; height: 57px; left: 33px; top: 25px; position: absolute; background: #5E5E5E; border-radius: 15px"></div>
+        <div style="width: 62px; height: 24px; left: 41px; top: 105px; position: absolute; background: #F1641C; border-radius: 15px"></div>
+        <div style="width: 26px; height: 18px; left: 59px; top: 108px; position: absolute; color: #F5F5F5; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Go</div>
+        <div style="width: 19px; height: 13px; left: 81px; top: 110px; position: absolute; overflow: hidden">
+          <div style="width: 5.54px; height: 7.58px; left: 6.93px; top: 2.71px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+        </div>
+        <div style="width: 41px; height: 15px; left: 41px; top: 68px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">35k</div>
+        <div style="width: 66px; height: 15px; left: 41px; top: 51px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">52.5km</div>
+        <div style="width: 12px; height: 11px; left: 74px; top: 69px; position: absolute; overflow: hidden">
+          <div style="width: 11.39px; height: 10.82px; left: 0.30px; top: 0.09px; position: absolute; background: black"></div>
+          <div style="width: 11.37px; height: 10.85px; left: 0.32px; top: 0.09px; position: absolute; background: #7F7F7F"></div>
+        </div>
+        <div style="width: 26px; height: 25px; left: 100px; top: 45px; position: absolute; overflow: hidden">
+          <div style="width: 10.11px; height: 12.49px; left: 5px; top: 7px; position: absolute; background: #7F7F7F"></div>
+          <div style="width: 5.99px; height: 8.26px; left: 14.51px; top: 7px; position: absolute; background: #7F7F7F"></div>
+        </div>
+      </div>
+      <img style="width: 129px; height: 140px; left: 236px; top: 0px; position: absolute; border-radius: 26px; border: 2px white solid" src="https://placehold.co/129x140" />
+      <div style="width: 364px; height: 140px; left: 0px; top: 147px; position: absolute">
+        <div style="width: 364px; height: 140px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 25px"></div>
+        <div style="width: 154px; height: 37px; left: 41px; top: 25px; position: absolute; color: #5E5E5E; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Wadi Hanifa
+        </div>
+        <div style="width: 3px; height: 57px; left: 33px; top: 25px; position: absolute; background: #5E5E5E; border-radius: 15px"></div>
+        <div style="width: 62px; height: 24px; left: 41px; top: 105px; position: absolute; background: #F1641C; border-radius: 15px"></div>
+        <div style="width: 26px; height: 18px; left: 59px; top: 108px; position: absolute; color: #F5F5F5; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Go</div>
+        <div style="width: 19px; height: 13px; left: 81px; top: 110px; position: absolute; overflow: hidden">
+          <div style="width: 5.54px; height: 7.58px; left: 6.93px; top: 2.71px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+        </div>
+        <div style="width: 40px; height: 15px; left: 41px; top: 68px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">12k</div>
+        <div style="width: 66px; height: 15px; left: 41px; top: 51px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">29km</div>
+        <div style="width: 12px; height: 11px; left: 69px; top: 70px; position: absolute; overflow: hidden">
+          <div style="width: 11.39px; height: 10.82px; left: 1px; top: 0px; position: absolute; background: black"></div>
+          <div style="width: 11.37px; height: 10.85px; left: 1.01px; top: 0px; position: absolute; background: #7F7F7F"></div>
+        </div>
+        <div style="width: 26px; height: 25px; left: 87px; top: 46px; position: absolute; overflow: hidden">
+          <div style="width: 10.11px; height: 12.49px; left: 3.89px; top: 5.24px; position: absolute; background: #7F7F7F"></div>
+          <div style="width: 5.99px; height: 8.26px; left: 13.40px; top: 5.24px; position: absolute; background: #7F7F7F"></div>
+        </div>
+      </div>
+      <img style="width: 129px; height: 140px; left: 236px; top: 147px; position: absolute; border-radius: 26px; border: 2px white solid" src="https://placehold.co/129x140" />
+      <div style="width: 364px; height: 140px; left: 0px; top: 294px; position: absolute">
+        <div style="width: 364px; height: 140px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 25px"></div>
+        <div style="width: 201px; height: 37px; left: 41px; top: 25px; position: absolute; color: #5E5E5E; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Ghadeer Walkway</div>
+        <div style="width: 3px; height: 57px; left: 33px; top: 25px; position: absolute; background: #5E5E5E; border-radius: 15px"></div>
+        <div style="width: 62px; height: 24px; left: 41px; top: 105px; position: absolute; background: #F1641C; border-radius: 15px"></div>
+        <div style="width: 26px; height: 18px; left: 59px; top: 108px; position: absolute; color: #F5F5F5; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Go</div>
+        <div style="width: 19px; height: 13px; left: 81px; top: 110px; position: absolute; overflow: hidden">
+          <div style="width: 5.54px; height: 7.58px; left: 6.93px; top: 2.71px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+        </div>
+        <div style="width: 29px; height: 15px; left: 41px; top: 68px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">16k</div>
+        <div style="width: 66px; height: 15px; left: 41px; top: 51px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">5km</div>
+        <div style="width: 12px; height: 11px; left: 68px; top: 70px; position: absolute; overflow: hidden">
+          <div style="width: 11.39px; height: 10.82px; left: 3px; top: 0px; position: absolute; background: black"></div>
+          <div style="width: 11.37px; height: 10.85px; left: 3.01px; top: 0px; position: absolute; background: #7F7F7F"></div>
+        </div>
+        <div style="width: 26px; height: 25px; left: 73px; top: 46px; position: absolute"></div>
+        <div style="width: 10.11px; height: 12.49px; left: 78px; top: 50px; position: absolute; background: #7F7F7F"></div>
+        <div style="width: 5.99px; height: 8.26px; left: 87.51px; top: 50px; position: absolute; background: #7F7F7F"></div>
+      </div>
+      <img style="width: 129px; height: 140px; left: 236px; top: 294px; position: absolute; border-radius: 26px; border: 2px white solid" src="https://placehold.co/129x140" />
+      <div style="width: 364px; height: 140px; left: 0px; top: 441px; position: absolute">
+        <div style="width: 364px; height: 140px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 25px"></div>
+        <div style="width: 154px; height: 37px; left: 41px; top: 25px; position: absolute; color: #5E5E5E; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Wadi Al-Sulay
+        </div>
+        <div style="width: 3px; height: 57px; left: 33px; top: 25px; position: absolute; background: #5E5E5E; border-radius: 15px"></div>
+        <div style="width: 62px; height: 24px; left: 41px; top: 105px; position: absolute; background: #F1641C; border-radius: 15px"></div>
+        <div style="width: 26px; height: 18px; left: 59px; top: 108px; position: absolute; color: #F5F5F5; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Go</div>
+        <div style="width: 19px; height: 13px; left: 81px; top: 110px; position: absolute; overflow: hidden">
+          <div style="width: 5.54px; height: 7.58px; left: 6.93px; top: 2.71px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+        </div>
+        <div style="width: 33px; height: 15px; left: 41px; top: 68px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">14k</div>
+        <div style="width: 66px; height: 15px; left: 41px; top: 51px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">53km</div>
+        <div style="width: 12px; height: 11px; left: 73px; top: 69px; position: absolute; overflow: hidden">
+          <div style="width: 11.39px; height: 10.82px; left: 0.30px; top: 0.09px; position: absolute; background: black"></div>
+          <div style="width: 11.37px; height: 10.85px; left: 0.32px; top: 0.09px; position: absolute; background: #7F7F7F"></div>
+        </div>
+        <div style="width: 26px; height: 25px; left: 87px; top: 46px; position: absolute; overflow: hidden">
+          <div style="width: 10.11px; height: 12.49px; left: 3.89px; top: 5.24px; position: absolute; background: #7F7F7F"></div>
+          <div style="width: 5.99px; height: 8.26px; left: 13.40px; top: 5.24px; position: absolute; background: #7F7F7F"></div>
+        </div>
+      </div>
+      <img style="width: 129px; height: 140px; left: 236px; top: 441px; position: absolute; border-radius: 26px; border: 2px white solid" src="https://placehold.co/129x140" />
+      <div style="width: 364px; height: 140px; left: 0px; top: 588px; position: absolute">
+        <div style="width: 364px; height: 140px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 25px"></div>
+        <div style="width: 154px; height: 37px; left: 41px; top: 25px; position: absolute; color: #5E5E5E; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Alzhor</div>
+        <div style="width: 3px; height: 57px; left: 33px; top: 25px; position: absolute; background: #5E5E5E; border-radius: 15px"></div>
+        <div style="width: 62px; height: 24px; left: 41px; top: 105px; position: absolute; background: #F1641C; border-radius: 15px"></div>
+        <div style="width: 26px; height: 18px; left: 59px; top: 108px; position: absolute; color: #F5F5F5; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Go</div>
+        <div style="width: 19px; height: 13px; left: 81px; top: 110px; position: absolute; overflow: hidden">
+          <div style="width: 5.54px; height: 7.58px; left: 6.93px; top: 2.71px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+        </div>
+        <div style="width: 18px; height: 15px; left: 41px; top: 68px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">1k</div>
+        <div style="width: 66px; height: 15px; left: 41px; top: 51px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">4.2km</div>
+        <div style="width: 12px; height: 11px; left: 60px; top: 70px; position: absolute; overflow: hidden">
+          <div style="width: 11.39px; height: 10.82px; left: 0.30px; top: 0.09px; position: absolute; background: black"></div>
+          <div style="width: 11.37px; height: 10.85px; left: 0.32px; top: 0.09px; position: absolute; background: #7F7F7F"></div>
+        </div>
+        <div style="width: 26px; height: 25px; left: 92px; top: 46px; position: absolute; overflow: hidden">
+          <div style="width: 10.11px; height: 12.49px; left: 3.89px; top: 5.24px; position: absolute; background: #7F7F7F"></div>
+          <div style="width: 5.99px; height: 8.26px; left: 13.40px; top: 5.24px; position: absolute; background: #7F7F7F"></div>
+        </div>
+      </div>
+      <img style="width: 129px; height: 140px; left: 236px; top: 588px; position: absolute; border-radius: 26px; border: 2px white solid" src="https://placehold.co/129x140" />
+    </div>
+  </div>
+  <div style="width: 329px; height: 64px; left: 32px; top: 771px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 35px; border: 1px #929292 solid"></div>
+  <div style="width: 34.28px; height: 33px; left: 181.38px; top: 786px; position: absolute; background: #F73007"></div>
+  <div style="width: 17.14px; height: 18.32px; left: 190.10px; top: 800.68px; position: absolute; background: #F73007"></div>
+  <div style="width: 48.40px; height: 40px; left: 281.19px; top: 783px; position: absolute; overflow: hidden">
+    <div style="width: 25.96px; height: 12.68px; left: 11.22px; top: 22.10px; position: absolute; background: #5E5E5E"></div>
+    <div style="width: 16.27px; height: 13.43px; left: 16.06px; top: 5.22px; position: absolute; background: #5E5E5E"></div>
+  </div>
+  <div style="width: 53px; height: 54px; left: 172px; top: 776px; position: absolute; background: rgba(241, 100, 28, 0.50); border-radius: 9999px"></div>
+  <img style="width: 54px; height: 59px; left: 278px; top: 773px; position: absolute" src="https://placehold.co/54x59" />
+  <div style="width: 5.03px; height: 5px; left: 84.18px; top: 797.87px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 5.03px; height: 5px; left: 92.98px; top: 797.87px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 5.03px; height: 5px; left: 101.79px; top: 797.87px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 39px; height: 35px; left: 76px; top: 786px; position: absolute; background: #5E5E5E"></div>
+</div>
+<div style="width: 393px; height: 852px; position: relative; background: #F5F5F5; overflow: hidden; border-radius: 28px">
+  <img style="width: 393px; height: 852px; left: 0px; top: 0px; position: absolute; border-radius: 27px" src="https://placehold.co/393x852" />
+  <div style="width: 21px; height: 27px; left: 335px; top: 80px; position: absolute; outline: 4px white solid; outline-offset: -2px"></div>
+  <div style="width: 66px; height: 71px; left: 274px; top: 58px; position: absolute"></div>
+  <div style="width: 298px; height: 54px; left: 9px; top: 67px; position: absolute; background: rgba(245, 245, 245, 0.50); border-radius: 35px; border: 2px rgba(94, 94, 94, 0.23) solid"></div>
+  <div style="width: 37px; height: 30px; left: 250px; top: 79px; position: absolute; background: white"></div>
+  <div style="width: 37.04px; height: 30.03px; left: 249.97px; top: 78.97px; position: absolute; background: white"></div>
+  <div style="width: 154px; height: 37px; left: 29px; top: 75px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 1.40px; word-wrap: break-word">Search</div>
+  <div style="width: 10.11px; height: 12.49px; left: -0.11px; top: 0.24px; position: absolute; background: #7F7F7F"></div>
+  <div style="width: 28px; height: 36px; left: 340px; top: 319px; position: absolute; background: rgba(255, 255, 255, 0.50); border: 1px rgba(241, 100, 28, 0.50) solid"></div>
+  <div style="width: 364px; height: 140px; left: 14px; top: 685px; position: absolute">
+    <div style="width: 364px; height: 140px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); border-radius: 25px"></div>
+    <div style="width: 154px; height: 37px; left: 41px; top: 25px; position: absolute; color: #5E5E5E; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Sports path</div>
+    <div style="width: 3px; height: 57px; left: 33px; top: 25px; position: absolute; background: #5E5E5E; border-radius: 15px"></div>
+    <div style="width: 62px; height: 24px; left: 41px; top: 105px; position: absolute; background: #F1641C; border-radius: 15px"></div>
+    <div style="width: 26px; height: 18px; left: 59px; top: 108px; position: absolute; color: #F5F5F5; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Go</div>
+    <div style="width: 19px; height: 13px; left: 81px; top: 110px; position: absolute; overflow: hidden">
+      <div style="width: 5.54px; height: 7.58px; left: 6.93px; top: 2.71px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+    </div>
+    <div style="width: 41px; height: 15px; left: 41px; top: 68px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">35k</div>
+    <div style="width: 66px; height: 15px; left: 41px; top: 51px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(0, 0, 0, 0.50); font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">52.5km</div>
+    <div style="width: 12px; height: 11px; left: 74px; top: 69px; position: absolute; overflow: hidden">
+      <div style="width: 11.39px; height: 10.82px; left: 0.30px; top: 0.09px; position: absolute; background: black"></div>
+      <div style="width: 11.37px; height: 10.85px; left: 0.32px; top: 0.09px; position: absolute; background: #7F7F7F"></div>
+    </div>
+    <div style="width: 26px; height: 25px; left: 100px; top: 45px; position: absolute; overflow: hidden">
+      <div style="width: 10.11px; height: 12.49px; left: 5px; top: 7px; position: absolute; background: #7F7F7F"></div>
+      <div style="width: 5.99px; height: 8.26px; left: 14.51px; top: 7px; position: absolute; background: #7F7F7F"></div>
+    </div>
+  </div>
+  <img style="width: 129px; height: 140px; left: 250px; top: 685px; position: absolute; border-radius: 26px; border: 2px white solid" src="https://placehold.co/129x140" />
+</div>
+<div style="width: 393px; height: 852px; position: relative; background: #F5F5F5; overflow: hidden; border-radius: 28px">
+  <img style="width: 478.49px; height: 862px; left: -53px; top: 0px; position: absolute" src="https://placehold.co/478x862" />
+  <div style="width: 477.88px; height: 284.90px; left: -52.39px; top: 564.93px; position: absolute; background: rgba(241, 100, 28, 0.50); outline: 1px #F1641C solid; outline-offset: -0.50px"></div>
+  <div style="width: 99px; height: 99px; left: 147px; top: 678px; position: absolute; background: rgba(255, 255, 255, 0.90); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 100px; border: 6px #F73007 solid"></div>
+  <div style="width: 35px; height: 40px; left: 183px; top: 708px; position: absolute; background: #F1641C"></div>
+  <div style="width: 43.52px; height: 5px; left: 39px; top: 72px; position: absolute; transform: rotate(90deg); transform-origin: top left; background: linear-gradient(0deg, #F73007 0%, #F73007 100%), white; border-radius: 15px"></div>
+  <div style="width: 257px; height: 37px; left: 57px; top: 75px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #F5F5F5; font-size: 16px; font-family: Krona One; font-weight: 400; line-height: 24px; letter-spacing: 0.80px; word-wrap: break-word">Stop on the track and start the challenge !</div>
+  <div style="width: 21px; height: 27px; left: 332px; top: 80px; position: absolute; outline: 4px white solid; outline-offset: -2px"></div>
+</div>
+<div style="width: 393px; height: 852px; position: relative; background: #F5F5F5; overflow: hidden">
+  <div style="width: 393px; height: 896px; left: -2335px; top: -34px; position: absolute; background: #2C2A2B; overflow: hidden; border-radius: 28px">
+    <img style="width: 825.71px; height: 564px; left: -92px; top: -221px; position: absolute; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(40.45, 38.61, 39.53, 0.92) 86%, rgba(42.44, 40.51, 41.48, 0.96) 92%, rgba(43.42, 41.44, 42.43, 0.99) 96%, #2C2A2B 100%)" src="https://placehold.co/826x564" />
+    <div style="width: 43.52px; height: 5px; left: 33px; top: 383px; position: absolute; transform: rotate(90deg); transform-origin: top left; background: linear-gradient(0deg, #F73007 0%, #F73007 100%), white; border-radius: 15px"></div>
+    <div style="width: 93px; height: 44px; left: 28px; top: 473px; position: absolute; background: #F73007; border-radius: 20px"></div>
+    <div style="width: 183px; height: 44px; left: 28px; top: 530px; position: absolute; border-radius: 20px; border: 1px #F1641C solid"></div>
+    <div style="width: 93px; height: 44px; left: 28px; top: 587px; position: absolute; border-radius: 20px; border: 1px #F1641C solid"></div>
+    <div style="width: 101px; height: 44px; left: 129px; top: 473px; position: absolute; border-radius: 20px; border: 1px #F1641C solid"></div>
+    <div style="width: 178px; height: 18px; left: 33px; top: 543px; position: absolute; color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Horseback Riding</div>
+    <div style="width: 72px; height: 17px; left: 144px; top: 486px; position: absolute; color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Cycling</div>
+    <div style="width: 79px; height: 18px; left: 37px; top: 486px; position: absolute; color: #F5F5F5; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Walking</div>
+    <div style="width: 65px; height: 37px; left: 295px; top: 762px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.50)">Next</div>
+    <img style="width: 374px; height: 171px; left: 0px; top: 952px; position: absolute; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(4, 34, 34, 0.90) 86%); border-radius: 35px; border: 1px #5E5E5E solid" src="https://placehold.co/374x171" />
+    <div style="width: 19px; height: 13px; left: 341px; top: 774px; position: absolute; overflow: hidden">
+      <div style="width: 5.54px; height: 7.58px; left: 6.93px; top: 2.71px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+    </div>
+    <div style="width: 270px; height: 37px; left: 42px; top: 391px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 20px; font-family: Krona One; font-weight: 400; line-height: 30px; letter-spacing: 1px; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.50)">Sports he's interested in</div>
+    <div style="width: 84px; left: 33px; top: 600px; position: absolute; justify-content: center; display: flex; flex-direction: column"><span style="color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.50)">Formul</span><span style="color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 1.40px; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.50)">a<br/></span></div>
+  </div>
+  <div style="width: 8px; height: 10.52px; left: 119px; top: 263.62px; position: absolute; outline: 2px #F73007 solid; outline-offset: -1px"></div>
+  <div style="width: 364px; height: 121px; left: 15px; top: 132px; position: absolute">
+    <div style="width: 364px; height: 109px; left: 0px; top: 0px; position: absolute; background: linear-gradient(90deg, #F1641C 0%); border-radius: 25px"></div>
+    <div style="width: 117px; height: 17.06px; left: 34px; top: 33px; position: absolute; color: #F5F5F5; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Gold medal</div>
+    <div style="width: 117px; height: 17.06px; left: 34px; top: 59px; position: absolute; color: white; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">2,005 - 33K</div>
+    <div style="width: 2.78px; height: 3.70px; left: 162.15px; top: 59px; position: absolute; background: white"></div>
+    <div style="width: 14px; height: 15.84px; left: 153px; top: 60.40px; position: absolute; background: white"></div>
+    <div style="width: 80px; height: 80px; left: 268px; top: 10px; position: absolute; overflow: hidden">
+      <div style="width: 70.85px; height: 70.85px; left: 5px; top: 9px; position: absolute; background: white"></div>
+      <div style="width: 44.92px; height: 42.72px; left: 17.96px; top: 20.81px; position: absolute; background: white"></div>
+    </div>
+    <div style="width: 43.52px; height: 5px; left: 24px; top: 31px; position: absolute; transform: rotate(90deg); transform-origin: top left; background: linear-gradient(0deg, white 0%, white 100%), #5E5E5E; border-radius: 15px"></div>
+  </div>
+  <div style="left: 24px; top: 47px; position: absolute; color: #5E5E5E; font-size: 16px; font-family: Krona One; font-weight: 400; letter-spacing: 0.80px; word-wrap: break-word">Results</div>
+  <div style="width: 117px; height: 18px; left: 37px; top: 259px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Activity</div>
+  <div style="width: 364px; height: 223px; left: 15px; top: 319px; position: absolute">
+    <div style="width: 364px; height: 212px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 174px; height: 121px; left: 1px; top: 109px; position: absolute; background: linear-gradient(0deg, white 0%, white 100%), #5E5E5E; border-radius: 25px; border: 2px #E3DEDE solid"></div>
+      <div style="width: 174px; height: 181px; left: 190px; top: -30px; position: absolute; background: linear-gradient(0deg, white 0%, white 100%), #5E5E5E; border-radius: 25px; border: 2px #E3DEDE solid"></div>
+      <div style="width: 117px; height: 18px; left: 17px; top: 128px; position: absolute; color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Step</div>
+      <div style="width: 157px; height: 94px; left: 198px; top: 25px; position: absolute; overflow: hidden">
+        <div style="width: 137.63px; height: 74px; left: 9.68px; top: 10px; position: absolute; background: rgba(241, 100, 28, 0.50)"></div>
+      </div>
+      <div style="width: 117px; height: 18px; left: 207px; top: 124px; position: absolute"><span style="color: #F1641C; font-size: 16px; font-family: Krona One; font-weight: 400; letter-spacing: 0.80px; word-wrap: break-word">180 </span><span style="color: #F8BB9B; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">bpm</span></div>
+      <div style="width: 44px; height: 46px; left: 126px; top: 119px; position: absolute; overflow: hidden">
+        <div style="width: 26px; height: 27px; left: 7px; top: 5px; position: absolute; background: #F1641C"></div>
+      </div>
+      <div style="width: 158px; height: 106px; left: 7px; top: 121px; position: absolute; overflow: hidden">
+        <div style="width: 144.59px; height: 15.85px; left: 6.71px; top: 45.07px; position: absolute; background: rgba(241, 100, 28, 0.50)"></div>
+        <div style="width: 117px; height: 18px; left: 5px; top: 63px; position: absolute; color: #F69C6D; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">0</div>
+        <div style="width: 117px; height: 18px; left: 130px; top: 63px; position: absolute; color: #F69C6D; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">65</div>
+        <div style="width: 117px; height: 18px; left: 7px; top: 83px; position: absolute"><span style="color: #F1641C; font-size: 16px; font-family: Krona One; font-weight: 400; letter-spacing: 0.80px; word-wrap: break-word">49</span><span style="color: #F7B18D; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">K</span></div>
+      </div>
+      <div style="width: 330px; height: 212px; left: 0px; top: 230px; position: absolute">
+        <div style="width: 174px; height: 161px; left: 1px; top: 15px; position: absolute; background: linear-gradient(0deg, white 0%, white 100%), #5E5E5E; border-radius: 25px; border: 2px #E3DEDE solid"></div>
+        <div style="width: 134px; height: 143px; left: 25px; top: 58px; position: absolute; overflow: hidden">
+          <div style="width: 15.69px; height: 16.69px; left: 58.81px; top: 53.51px; position: absolute; background: rgba(241, 100, 28, 0.50)"></div>
+          <div style="width: 15.33px; height: 18.27px; left: 72.26px; top: 36.50px; position: absolute; background: rgba(241, 100, 28, 0.50)"></div>
+          <div style="width: 101.26px; height: 63.96px; left: 16px; top: 8px; position: absolute; background: rgba(241, 100, 28, 0.50)"></div>
+        </div>
+        <div style="width: 117px; height: 18px; left: 12px; top: 147px; position: absolute"><span style="color: #F1641C; font-size: 16px; font-family: Krona One; font-weight: 400; letter-spacing: 0.80px; word-wrap: break-word">12</span><span style="color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word"> </span><span style="color: #F7B18D; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Km/h</span></div>
+        <div style="width: 18.23px; height: 27.33px; left: 129px; top: 31px; position: absolute; background: #F1641C"></div>
+        <div style="width: 18.23px; height: 27.33px; left: 140.68px; top: 31px; position: absolute; background: #F1641C"></div>
+        <div style="width: 174px; height: 180px; left: 190px; top: -63px; position: absolute; background: linear-gradient(0deg, white 0%, white 100%), #5E5E5E; border-radius: 25px; border: 2px #E3DEDE solid"></div>
+        <div style="width: 117px; height: 18px; left: 12px; top: 31px; position: absolute; color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Speed</div>
+        <div style="width: 117px; height: 18px; left: 207px; top: -48px; position: absolute; color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Calories</div>
+        <div style="width: 106px; height: 106px; left: 224px; top: -14px; position: absolute; background: #F7B18D; border-radius: 60px"></div>
+        <div style="width: 80px; height: 80px; left: 237px; top: -1px; position: absolute; background: white"></div>
+      </div>
+      <div style="width: 28px; height: 32px; left: 324px; top: 174px; position: absolute; overflow: hidden">
+        <div style="width: 22.96px; height: 26.24px; left: 2.52px; top: 2.88px; position: absolute; background: #F1641C"></div>
+      </div>
+      <div style="width: 173px; height: 124px; left: 1px; top: -30px; position: absolute; background: linear-gradient(0deg, #F8BB9B 0%, #F8BB9B 100%), #5E5E5E; border-radius: 25px; border: 2px rgba(241, 100, 28, 0.36) solid"></div>
+      <div style="width: 75px; height: 79px; left: 51px; top: 4px; position: absolute; background: #F1641C"></div>
+    </div>
+    <div style="width: 56px; height: 31px; left: 252px; top: 253px; position: absolute"><span style="color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">3500<br/></span><span style="color: #F8BB9B; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">  Kcal</span></div>
+  </div>
+  <div style="width: 329px; height: 64px; left: 32px; top: 771px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 35px; border: 1px rgba(146, 146, 146, 0.50) solid"></div>
+  <div style="width: 53px; height: 54px; left: 277px; top: 776px; position: absolute; background: rgba(241, 100, 28, 0.50); border-radius: 9999px"></div>
+  <img style="width: 54px; height: 59px; left: 274px; top: 771px; position: absolute" src="https://placehold.co/54x59" />
+  <div style="width: 37px; height: 33px; left: 78px; top: 786px; position: absolute"></div>
+  <div style="width: 34.28px; height: 33px; left: 181.38px; top: 786px; position: absolute; background: #7F7F7F; border: 1.56px #5E5E5E solid"></div>
+  <div style="width: 17.14px; height: 18.32px; left: 190.10px; top: 800.68px; position: absolute; background: #7F7F7F; border: 1.56px #5E5E5E solid"></div>
+  <div style="width: 30px; height: 26px; left: 333px; top: 305px; position: absolute">
+    <div style="width: 30px; height: 26px; left: 0px; top: 0px; position: absolute; background: #F1641C"></div>
+  </div>
+  <div style="width: 117px; height: 19px; left: 222px; top: 305px; position: absolute; color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Heart</div>
+  <div style="width: 117px; height: 18px; left: 28px; top: 332px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Gift</div>
+  <div style="width: 241px; height: 35px; left: 22px; top: 82px; position: absolute">
+    <div style="width: 53px; height: 35px; left: 0px; top: 0px; position: absolute; background: #F73007; border-radius: 15px; border: 1px rgba(44, 194, 149, 0) solid"></div>
+    <div style="width: 26px; height: 19.09px; left: 14px; top: 8.48px; position: absolute; color: #F5F5F5; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">All</div>
+    <div style="width: 164px; height: 15.91px; left: 77px; top: 9.55px; position: absolute; color: #5E5E5E; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Wamen</div>
+  </div>
+  <div style="width: 5.03px; height: 5px; left: 84.18px; top: 797.87px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 5.03px; height: 5px; left: 92.98px; top: 797.87px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 5.03px; height: 5px; left: 101.79px; top: 797.87px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 39px; height: 35px; left: 76px; top: 786px; position: absolute; background: #5E5E5E"></div>
+</div>
+<div style="width: 393px; height: 852px; position: relative; background: #F5F5F5; overflow: hidden">
+  <div style="width: 393px; height: 896px; left: -2335px; top: -34px; position: absolute; background: #2C2A2B; overflow: hidden; border-radius: 28px">
+    <img style="width: 825.71px; height: 564px; left: -92px; top: -221px; position: absolute; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(40.45, 38.61, 39.53, 0.92) 86%, rgba(42.44, 40.51, 41.48, 0.96) 92%, rgba(43.42, 41.44, 42.43, 0.99) 96%, #2C2A2B 100%)" src="https://placehold.co/826x564" />
+    <div style="width: 43.52px; height: 5px; left: 33px; top: 383px; position: absolute; transform: rotate(90deg); transform-origin: top left; background: linear-gradient(0deg, #F73007 0%, #F73007 100%), white; border-radius: 15px"></div>
+    <div style="width: 93px; height: 44px; left: 28px; top: 473px; position: absolute; background: #F73007; border-radius: 20px"></div>
+    <div style="width: 183px; height: 44px; left: 28px; top: 530px; position: absolute; border-radius: 20px; border: 1px #F1641C solid"></div>
+    <div style="width: 93px; height: 44px; left: 28px; top: 587px; position: absolute; border-radius: 20px; border: 1px #F1641C solid"></div>
+    <div style="width: 101px; height: 44px; left: 129px; top: 473px; position: absolute; border-radius: 20px; border: 1px #F1641C solid"></div>
+    <div style="width: 178px; height: 18px; left: 33px; top: 543px; position: absolute; color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Horseback Riding</div>
+    <div style="width: 72px; height: 17px; left: 144px; top: 486px; position: absolute; color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Cycling</div>
+    <div style="width: 79px; height: 18px; left: 37px; top: 486px; position: absolute; color: #F5F5F5; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Walking</div>
+    <div style="width: 65px; height: 37px; left: 295px; top: 762px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.50)">Next</div>
+    <img style="width: 374px; height: 171px; left: 0px; top: 952px; position: absolute; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(4, 34, 34, 0.90) 86%); border-radius: 35px; border: 1px #5E5E5E solid" src="https://placehold.co/374x171" />
+    <div style="width: 19px; height: 13px; left: 341px; top: 774px; position: absolute; overflow: hidden">
+      <div style="width: 5.54px; height: 7.58px; left: 6.93px; top: 2.71px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+    </div>
+    <div style="width: 270px; height: 37px; left: 42px; top: 391px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 20px; font-family: Krona One; font-weight: 400; line-height: 30px; letter-spacing: 1px; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.50)">Sports he's interested in</div>
+    <div style="width: 84px; left: 33px; top: 600px; position: absolute; justify-content: center; display: flex; flex-direction: column"><span style="color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.50)">Formul</span><span style="color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 1.40px; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.50)">a<br/></span></div>
+  </div>
+  <div style="width: 8px; height: 10.52px; left: 119px; top: 263.62px; position: absolute; outline: 2px #F73007 solid; outline-offset: -1px"></div>
+  <div style="width: 364px; height: 121px; left: 15px; top: 132px; position: absolute">
+    <div style="width: 364px; height: 109px; left: 0px; top: 0px; position: absolute; background: linear-gradient(90deg, #F1641C 0%); border-radius: 25px"></div>
+    <div style="width: 117px; height: 17.06px; left: 34px; top: 33px; position: absolute; color: #F5F5F5; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Gold medal</div>
+    <div style="width: 117px; height: 17.06px; left: 34px; top: 59px; position: absolute; color: white; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">2,005 - 33K</div>
+    <div style="width: 3.56px; height: 4.55px; left: 167.71px; top: 61.03px; position: absolute; background: white"></div>
+    <div style="width: 17.91px; height: 19.52px; left: 156px; top: 62.75px; position: absolute; background: white"></div>
+    <div style="width: 80px; height: 80px; left: 268px; top: 10px; position: absolute; overflow: hidden">
+      <div style="width: 70.85px; height: 70.85px; left: 5px; top: 9px; position: absolute; background: white"></div>
+      <div style="width: 44.92px; height: 42.72px; left: 17.96px; top: 20.81px; position: absolute; background: white"></div>
+    </div>
+    <div style="width: 43.52px; height: 5px; left: 24px; top: 31px; position: absolute; transform: rotate(90deg); transform-origin: top left; background: linear-gradient(0deg, white 0%, white 100%), #5E5E5E; border-radius: 15px"></div>
+  </div>
+  <div style="width: 117px; height: 18px; left: 37px; top: 259px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Activity</div>
+  <div style="width: 364px; height: 223px; left: 15px; top: 319px; position: absolute">
+    <div style="width: 364px; height: 212px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 174px; height: 121px; left: 1px; top: 109px; position: absolute; background: linear-gradient(0deg, white 0%, white 100%), #5E5E5E; border-radius: 25px; border: 2px #E3DEDE solid"></div>
+      <div style="width: 174px; height: 181px; left: 190px; top: -30px; position: absolute; background: linear-gradient(0deg, white 0%, white 100%), #5E5E5E; border-radius: 25px; border: 2px #E3DEDE solid"></div>
+      <div style="width: 117px; height: 18px; left: 17px; top: 128px; position: absolute; color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Step</div>
+      <div style="width: 157px; height: 94px; left: 198px; top: 25px; position: absolute; overflow: hidden">
+        <div style="width: 137.63px; height: 74px; left: 9.68px; top: 10px; position: absolute; background: rgba(241, 100, 28, 0.50)"></div>
+      </div>
+      <div style="width: 117px; height: 18px; left: 207px; top: 124px; position: absolute"><span style="color: #F1641C; font-size: 16px; font-family: Krona One; font-weight: 400; letter-spacing: 0.80px; word-wrap: break-word">180 </span><span style="color: #F8BB9B; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">bpm</span></div>
+      <div style="width: 44px; height: 46px; left: 126px; top: 119px; position: absolute; overflow: hidden">
+        <div style="width: 26px; height: 27px; left: 7px; top: 5px; position: absolute; background: #F1641C"></div>
+      </div>
+      <div style="width: 158px; height: 106px; left: 7px; top: 121px; position: absolute; overflow: hidden">
+        <div style="width: 144.59px; height: 15.85px; left: 6.71px; top: 45.07px; position: absolute; background: rgba(241, 100, 28, 0.50)"></div>
+        <div style="width: 117px; height: 18px; left: 5px; top: 63px; position: absolute; color: #F69C6D; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">0</div>
+        <div style="width: 117px; height: 18px; left: 130px; top: 63px; position: absolute; color: #F69C6D; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">65</div>
+        <div style="width: 117px; height: 18px; left: 7px; top: 83px; position: absolute"><span style="color: #F1641C; font-size: 16px; font-family: Krona One; font-weight: 400; letter-spacing: 0.80px; word-wrap: break-word">49</span><span style="color: #F7B18D; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">K</span></div>
+      </div>
+      <div style="width: 330px; height: 212px; left: 0px; top: 230px; position: absolute">
+        <div style="width: 174px; height: 161px; left: 1px; top: 15px; position: absolute; background: linear-gradient(0deg, white 0%, white 100%), #5E5E5E; border-radius: 25px; border: 2px #E3DEDE solid"></div>
+        <div style="width: 134px; height: 143px; left: 25px; top: 58px; position: absolute; overflow: hidden">
+          <div style="width: 15.69px; height: 16.69px; left: 58.81px; top: 53.51px; position: absolute; background: rgba(241, 100, 28, 0.50)"></div>
+          <div style="width: 15.33px; height: 18.27px; left: 72.26px; top: 36.50px; position: absolute; background: rgba(241, 100, 28, 0.50)"></div>
+          <div style="width: 101.26px; height: 63.96px; left: 16px; top: 8px; position: absolute; background: rgba(241, 100, 28, 0.50)"></div>
+        </div>
+        <div style="width: 117px; height: 18px; left: 12px; top: 147px; position: absolute"><span style="color: #F1641C; font-size: 16px; font-family: Krona One; font-weight: 400; letter-spacing: 0.80px; word-wrap: break-word">12</span><span style="color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word"> </span><span style="color: #F7B18D; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Km/h</span></div>
+        <div style="width: 18.23px; height: 27.33px; left: 129px; top: 31px; position: absolute; background: #F1641C"></div>
+        <div style="width: 18.23px; height: 27.33px; left: 140.68px; top: 31px; position: absolute; background: #F1641C"></div>
+        <div style="width: 174px; height: 180px; left: 190px; top: -63px; position: absolute; background: linear-gradient(0deg, white 0%, white 100%), #5E5E5E; border-radius: 25px; border: 2px #E3DEDE solid"></div>
+        <div style="width: 117px; height: 18px; left: 12px; top: 31px; position: absolute; color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Speed</div>
+        <div style="width: 117px; height: 18px; left: 207px; top: -48px; position: absolute; color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Calories</div>
+        <div style="width: 106px; height: 106px; left: 224px; top: -14px; position: absolute; background: #F7B18D; border-radius: 60px"></div>
+        <div style="width: 80px; height: 80px; left: 237px; top: -1px; position: absolute; background: white"></div>
+      </div>
+      <div style="width: 28px; height: 32px; left: 324px; top: 174px; position: absolute; overflow: hidden">
+        <div style="width: 22.96px; height: 26.24px; left: 2.52px; top: 2.88px; position: absolute; background: #F1641C"></div>
+      </div>
+      <div style="width: 173px; height: 124px; left: 1px; top: -30px; position: absolute; background: linear-gradient(0deg, #F8BB9B 0%, #F8BB9B 100%), #5E5E5E; border-radius: 25px; border: 2px rgba(241, 100, 28, 0.36) solid"></div>
+      <div style="width: 75px; height: 79px; left: 51px; top: 4px; position: absolute; background: #F1641C"></div>
+      <div style="width: 22.69px; height: 22.63px; left: 313.69px; top: 18.63px; position: absolute; transform: rotate(180deg); transform-origin: top left; background: black"></div>
+      <div style="width: 22.66px; height: 22.64px; left: 313.68px; top: 18.64px; position: absolute; transform: rotate(180deg); transform-origin: top left; background: rgba(241, 100, 28, 0.50)"></div>
+      <div style="width: 164px; height: 15.91px; left: 177px; top: 457px; position: absolute; transform: rotate(360deg); transform-origin: top left; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Settings</div>
+    </div>
+    <div style="width: 56px; height: 31px; left: 252px; top: 253px; position: absolute"><span style="color: #F1641C; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">3500<br/></span><span style="color: #F8BB9B; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">  Kcal</span></div>
+  </div>
+  <div style="width: 329px; height: 64px; left: 32px; top: 773px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 35px; border: 1px rgba(146, 146, 146, 0.50) solid"></div>
+  <div style="width: 53px; height: 54px; left: 318px; top: 884px; position: absolute; background: rgba(241, 100, 28, 0.50)"></div>
+  <div style="width: 34.28px; height: 33px; left: 181.38px; top: 788px; position: absolute; background: #7F7F7F; border: 1.56px #5E5E5E solid"></div>
+  <div style="width: 17.14px; height: 18.32px; left: 190.10px; top: 802.68px; position: absolute; background: #7F7F7F; border: 1.56px #5E5E5E solid"></div>
+  <div style="width: 241px; height: 35px; left: 22px; top: 84px; position: absolute">
+    <div style="width: 53px; height: 35px; left: 0px; top: 0px; position: absolute; background: #F73007; border-radius: 15px; border: 1px rgba(44, 194, 149, 0) solid"></div>
+    <div style="width: 26px; height: 19.09px; left: 14px; top: 8.48px; position: absolute; color: #F5F5F5; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">All</div>
+    <div style="width: 164px; height: 15.91px; left: 77px; top: 9.55px; position: absolute; color: #5E5E5E; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Wamen</div>
+  </div>
+  <div style="width: 252px; height: 852px; left: 141px; top: 2px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+  <div style="width: 164px; height: 15.91px; left: 185px; top: 478px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Settings</div>
+  <div style="width: 164px; height: 15.91px; left: 185px; top: 427px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">My challenges</div>
+  <div style="width: 164px; height: 15.91px; left: 178px; top: 798px; position: absolute; color: #5E5E5E; font-size: 11px; font-family: Krona One; font-weight: 400; letter-spacing: 0.55px; word-wrap: break-word">Log out</div>
+  <div style="width: 59px; height: 47px; left: 317px; top: 466px; position: absolute; overflow: hidden">
+    <div style="width: 26px; height: 24px; left: 12px; top: 9px; position: absolute; overflow: hidden">
+      <div style="width: 25.58px; height: 23.62px; left: 0.21px; top: 0.19px; position: absolute; background: black"></div>
+      <div style="width: 25.59px; height: 23.61px; left: 0.21px; top: 0.19px; position: absolute; background: #F1641C"></div>
+    </div>
+  </div>
+  <div style="width: 192px; height: 42px; left: 172px; top: 413px; position: absolute; border-radius: 10px; border: 2px rgba(241, 100, 28, 0.50) solid"></div>
+  <div style="width: 192px; height: 42px; left: 171px; top: 466px; position: absolute; border-radius: 10px; border: 2px rgba(241, 100, 28, 0.50) solid"></div>
+  <div style="width: 26px; height: 22px; left: 321px; top: 372px; position: absolute">
+    <div style="width: 23px; height: 20px; left: 10px; top: 1px; position: absolute; background: #F1641C"></div>
+    <div style="width: 192px; height: 42px; left: -149px; top: -66px; position: absolute; background: rgba(241, 100, 28, 0.36); border-radius: 10px; border: 2px rgba(241, 100, 28, 0.50) solid"></div>
+  </div>
+  <div style="width: 192px; height: 42px; left: 172px; top: 360px; position: absolute; border-radius: 10px; border: 2px rgba(241, 100, 28, 0.50) solid"></div>
+  <div style="width: 185px; height: 185px; left: 181px; top: 79px; position: absolute; background: rgba(241, 100, 28, 0.70); border-radius: 9999px"></div>
+  <img style="width: 164px; height: 181px; left: 185px; top: 72px; position: absolute" src="https://placehold.co/164x181" />
+  <div style="width: 117px; height: 18px; left: 28px; top: 332px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Gift</div>
+  <div style="width: 63px; height: 59px; left: 327px; top: 7px; position: absolute; overflow: hidden">
+    <div style="width: 25.61px; height: 29.12px; left: 18.48px; top: 14.99px; position: absolute; background: #5E5E5E"></div>
+    <div style="width: 7px; height: 7px; left: 36px; top: 18px; position: absolute; background: #F73007; border-radius: 9999px"></div>
+  </div>
+  <div style="width: 5.03px; height: 5px; left: 84.18px; top: 797.87px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 5.03px; height: 5px; left: 92.98px; top: 797.87px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 5.03px; height: 5px; left: 101.79px; top: 797.87px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 23px; height: 25px; left: 331px; top: 421px; position: absolute; background: #F1641C"></div>
+  <div style="width: 39px; height: 35px; left: 76px; top: 786px; position: absolute; background: #5E5E5E"></div>
+  <div style="width: 164px; height: 15.91px; left: 186px; top: 316px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">My activity </div>
+  <div style="width: 164px; height: 15.91px; left: 186px; top: 373px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Favorite</div>
+  <div style="width: 10px; height: 10px; left: 107px; top: 782px; position: absolute; background: #F73007; border-radius: 9999px"></div>
+  <div style="width: 63px; height: 19px; left: 166px; top: 20px; position: absolute; color: #5E5E5E; font-size: 20px; font-family: Krona One; font-weight: 400; letter-spacing: 1px; word-wrap: break-word">saja</div>
+  <div style="width: 26px; height: 23px; left: 357px; top: 338px; position: absolute; transform: rotate(180deg); transform-origin: top left; overflow: hidden">
+    <div style="width: 24.58px; height: 22.63px; left: 0.71px; top: 0.18px; position: absolute; background: #F1641C"></div>
+    <div style="width: 24.55px; height: 22.64px; left: 0.73px; top: 0.18px; position: absolute; background: #F1641C"></div>
+  </div>
+  <div style="left: 24px; top: 47px; position: absolute; color: #5E5E5E; font-size: 16px; font-family: Krona One; font-weight: 400; letter-spacing: 0.80px; word-wrap: break-word">Results</div>
+  <div style="width: 2px; height: 9px; left: 172px; top: 800px; position: absolute; background: #F73007; border-radius: 0.50px"></div>
+</div>
+<div style="width: 252px; height: 852px; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+<div style="width: 393px; height: 852px; position: relative; background: #F5F5F5; overflow: hidden">
+  <div style="width: 55px; height: 49px; left: -707.25px; top: 756.90px; position: absolute"></div>
+  <div style="width: 146px; height: 64px; left: 51px; top: 56px; position: absolute; color: #535353; font-size: 22px; font-family: Krona One; font-weight: 400; letter-spacing: 1.10px; word-wrap: break-word">Welcome<br/></div>
+  <div style="width: 58.02px; height: 12px; left: 41px; top: 54px; position: absolute; transform: rotate(90deg); transform-origin: top left; background: linear-gradient(0deg, #F73007 0%, #F73007 100%), white; border-radius: 15px"></div>
+  <div style="width: 156.09px; height: 156px; left: 126.87px; top: 112px; position: absolute; transform: rotate(1deg); transform-origin: top left; background: rgba(127, 127, 127, 0.49); border-radius: 9999px"></div>
+  <div style="width: 82.73px; height: 65.32px; left: 163.04px; top: 157.77px; position: absolute; transform: rotate(1deg); transform-origin: top left; background: rgba(94, 94, 94, 0.56)"></div>
+  <div style="width: 45px; height: 14px; left: 60px; top: 366px; position: absolute; color: #F69C6D; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Man</div>
+  <div style="width: 201px; height: 14px; left: 61px; top: 309px; position: absolute; color: #F69C6D; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Enter your email</div>
+  <div style="width: 98px; height: 32px; left: 29px; top: 425px; position: absolute; background: white; border-radius: 18.50px; border: 1px #F7B18D solid"></div>
+  <div style="width: 98px; height: 32px; left: 143px; top: 425px; position: absolute; background: white; border-radius: 18.50px; border: 1px rgba(241, 100, 28, 0.36) solid"></div>
+  <div style="width: 98px; height: 32px; left: 32px; top: 488px; position: absolute; background: white; border-radius: 16px; border: 1px #F7B18D solid"></div>
+  <div style="width: 98px; height: 32px; left: 146px; top: 488px; position: absolute; background: white; border-radius: 16px; border: 1px rgba(241, 100, 28, 0.36) solid"></div>
+  <div style="width: 320px; height: 13px; left: 35px; top: 465px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">You have a physical disability</div>
+  <div style="width: 325px; height: 42px; left: 29px; top: 295px; position: absolute; background: white; border-radius: 24.50px; border: 1px #F7B18D solid"></div>
+  <div style="width: 325px; height: 42px; left: 26px; top: 353px; position: absolute; background: white; border-radius: 22px; border: 1px rgba(241, 100, 28, 0.36) solid"></div>
+  <div style="width: 56px; height: 1px; left: 53px; top: 295px; position: absolute; background: white"></div>
+  <div style="width: 319px; height: 14px; left: 42px; top: 434px; position: absolute; color: #F69C6D; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">woman</div>
+  <div style="width: 319px; height: 14px; left: 44px; top: 366px; position: absolute; color: #F69C6D; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Enter your username</div>
+  <div style="width: 45px; height: 14px; left: 173px; top: 434px; position: absolute; color: #F69C6D; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Man</div>
+  <div style="width: 45px; height: 13px; left: 182px; top: 496px; position: absolute; color: #F69C6D; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">No</div>
+  <div style="width: 325px; height: 42px; left: 22px; top: 648.32px; position: absolute; background: white; border-radius: 24.50px; border: 1px #F7B18D solid"></div>
+  <div style="width: 98px; height: 2px; left: 45px; top: 648.32px; position: absolute; background: white"></div>
+  <div style="width: 171.62px; height: 13.77px; left: 45.07px; top: 641px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Password</div>
+  <div style="width: 171.62px; height: 13.77px; left: 52.07px; top: 285.18px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Email</div>
+  <div style="width: 172px; height: 14px; left: 49px; top: 344px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Username</div>
+  <div style="width: 325px; height: 42px; left: 21px; top: 538px; position: absolute; background: white; border-radius: 24.50px; border: 1px #F7B18D solid"></div>
+  <div style="width: 292px; height: 14px; left: 39px; top: 662.32px; position: absolute; color: #F69C6D; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Enter the password</div>
+  <div style="width: 292px; height: 14px; left: 47px; top: 309px; position: absolute; color: #F69C6D; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Enter your email</div>
+  <div style="width: 171.62px; height: 13.77px; left: 44.07px; top: 551.44px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Nationality</div>
+  <div style="width: 92px; height: 41px; left: 251px; top: 751px; position: absolute; background: #F1641C; border-radius: 20.50px"></div>
+  <div style="width: 279px; height: 16px; left: 267px; top: 764px; position: absolute; color: white; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">Sing in</div>
+  <div style="width: 279px; height: 16px; left: 44px; top: 756px; position: absolute; color: #7F7F7F; font-size: 12px; font-family: Krona One; font-weight: 400; letter-spacing: 0.60px; word-wrap: break-word">You have an<br/> account ?</div>
+  <div style="width: 325px; height: 42px; left: 21px; top: 592px; position: absolute; background: white; border-radius: 24.50px; border: 1px #F7B18D solid"></div>
+  <div style="width: 171.62px; height: 13.77px; left: 44.07px; top: 605.44px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Age</div>
+  <div style="width: 319px; height: 14px; left: 36px; top: 405px; position: absolute; color: #F73007; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Gender</div>
+  <div style="width: 45px; height: 13px; left: 58px; top: 496px; position: absolute; color: #F69C6D; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Yes</div>
+  <div style="left: 54px; top: 88px; position: absolute; color: #5E5E5E; font-size: 14px; font-family: Krona One; font-weight: 400; letter-spacing: 0.70px; word-wrap: break-word">Virtual Races</div>
+</div>
+<div style="width: 106px; height: 1px; background: white"></div>
+<div style="width: 393px; height: 852px; position: relative; background: #F1641C; overflow: hidden">
+  <img style="width: 320px; height: 320px; left: 37px; top: 266px; position: absolute" src="https://placehold.co/320x320" />
+</div>

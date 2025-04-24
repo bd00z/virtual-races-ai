@@ -1,0 +1,62 @@
+
+# مشروع التنبؤ بالبطل الرياضي
+# تم إنشاؤه على Google Colab
+
+# تثبيت المكتبات المطلوبة
+!pip install pandas scikit-learn matplotlib
+
+# استيراد المكتبات
+import pandas as pd
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.preprocessing import LabelEncoder
+from google.colab import files
+
+# رفع ملفات التدريب والاختبار
+uploaded = files.upload()
+
+# قراءة الملفات
+train = pd.read_csv("Train.1csv.csv")
+test = pd.read_csv("Test.2csv.csv")
+
+# حساب "درجة البطل" إذا غير موجودة
+def score_row(row):
+    score = 0
+    score += row["Average Speed (km/h)"] * 2.5
+    score += (row["Calories Burned"] / 500) * 20
+    score += max(0, (10 - row["Fatigue Index"])) * 2
+    score += (6 - row["Sport Ranking"]) * 4 if row["Sport Ranking"] <= 5 else 0
+    if row["Fitness Level"] == "Excellent":
+        score += 10
+    elif row["Fitness Level"] == "Very Good":
+        score += 7
+    elif row["Fitness Level"] == "Good":
+        score += 5
+    return round(score, 1)
+
+# توليد العمود في حال عدم وجوده
+if "Champion Score" not in train.columns:
+    train["Champion Score"] = train.apply(score_row, axis=1)
+
+# تجهيز البيانات للتدريب
+X_train = train.drop(columns=["Champion Score"])
+y_train = train["Champion Score"]
+
+# ترميز القيم النصية
+for col in X_train.select_dtypes(include='object').columns:
+    le = LabelEncoder()
+    X_train[col] = le.fit_transform(X_train[col])
+
+for col in test.select_dtypes(include='object').columns:
+    le = LabelEncoder()
+    test[col] = le.fit_transform(test[col])
+
+# تدريب النموذج
+model = RandomForestRegressor(n_estimators=100, random_state=42)
+model.fit(X_train, y_train)
+
+# التنبؤ بالنتائج
+test["Predicted Champion Score"] = model.predict(test).round(1)
+
+# حفظ النتائج في ملف
+test.to_csv("predicted.csv", index=False)
+print("✅ النتائج محفوظة في predicted.csv")
